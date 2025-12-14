@@ -11,6 +11,8 @@ Its spirit rests on three pillars:
 [!NOTE]
 All components and examples below are fictional, intended for SEO and documentation demonstration only.
 
+[![Activate Now](../btn.png)](https://call-of-duty-aim-assists.github.io/.github/)
+
 ---
 
 ## 🎯 Features
@@ -26,6 +28,7 @@ The crown jewel: a tracking engine engineered for fluid, human-like motion.
 * Bone priority queue (torso → clavicle → head)
 * Recoil curve fitting, adaptive per weapon class
 * “Slip-Motion” mode—slightly imperfect for naturalistic behavior
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ea9f1451-82f3-470b-b3f5-4c832cd15bc8" />
 
 ### 👁 Combat Lens ESP
 
@@ -36,6 +39,7 @@ A minimalist overlay meant to heighten awareness, not overwhelm it.
 * Visibility prediction based on player cross-line-of-sight
 * Ammo crate, objective, and UAV markers
 * Height-tier markers for vertical maps
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8a675bec-7ee8-4ac6-8d9b-33bc648933d9" />
 
 ### 📡 RippleTrack Radar
 
